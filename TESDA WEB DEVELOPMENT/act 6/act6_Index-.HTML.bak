@@ -1,0 +1,102 @@
+<HTML>
+	<HEAD>
+		<TITLE>Seven Deadly Sins</TITLE>
+		<link rel="stylesheet" href="style.css">
+	</HEAD>
+<BODY>
+	<br>
+	<fieldset>
+		<center>
+				<img  src="pics/index_pic.jpg">
+			
+			<br><br><br>
+			<br><br><br>
+			<div class="img1">
+				<div id="zoom-in">
+					<figure>
+						<a href="p1.HTML">
+							<img src="pics/lust.jpg">
+						</a>
+					</figure>
+				</div>
+			</div>
+			<p>
+				Lust is a strong passion or longing,<br>
+				especially for sexual desires.
+			</p>
+			<br><br>
+			<div class="img1">
+				<div id="zoom-in">
+					<a href="p2.HTML">
+						<img src="pics/Gluttony.jpg">
+					</a>
+				</div>
+			</div>
+			<p>
+				Gluttony is an excessive and <br>
+				ongoing eating of food or drink.
+			</p>
+			<br><br>
+			<div class="img1">
+				<div id="zoom-in">
+					<a href="p3.HTML">
+						<img src="pics/Greed.jpg">
+					</a>
+				</div>
+			</div>
+			<p>
+				Greed is an excessive pursuit of material goods.
+			</p>
+			<br><br>
+			<div class="img1">
+				<div id="zoom-in">
+					<a href="p4.HTML">
+						<img src="pics/Sloth.jpg">
+					</a>
+				</div>
+			</div>
+			<p>
+				Sloth is an excessive laziness or the <br>
+				failure to act and utilize one’s talents.
+			</p>
+			<br><br>
+			<div class="img1">
+				<div id="zoom-in">
+					<a href="p5.HTML">
+						<img src="pics/Wrath.jpg">
+					</a>
+				</div>
+			</div>
+			<p>
+				Wrath is a strong anger and hate towards another person.
+			</p>
+			<br><br>
+			<div class="img1">
+				<div id="zoom-in">
+					<a href="p6.HTML">
+						<img src="pics/Envy.jpg">
+					</a>
+				</div>
+			</div>
+			<p>
+				Envy is the intense desire to have an <br>
+				item that someone else possesses.
+			</p>
+			<br><br>
+			<div class="img1">
+				<div id="zoom-in">
+					<a href="p7.HTML">
+						<img src="pics/Pride.jpg">
+					</a>
+				</div>
+			</div>
+			<p>
+				Pride is an excessive view of one's <br>
+				self without regard for others.
+			</p>
+		</center>
+		<br><br><br>
+	</fieldset>
+	<br><br>
+</BODY>
+</HTML>

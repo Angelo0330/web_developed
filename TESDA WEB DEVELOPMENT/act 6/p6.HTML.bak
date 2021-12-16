@@ -1,0 +1,34 @@
+<HTML>
+	<HEAD>
+		<TITLE>Seven Deadly Sins</TITLE>
+		<link rel="stylesheet" href="style.css">
+	</HEAD>
+<BODY>
+	<br>
+	<fieldset>
+		<center>
+				<img  src="pics/index_pic.jpg">
+			
+				<br><br><br>
+				<br><br><br>
+				<img class="img2" src="pics/Envy.jpg" alt="">
+				<br><br>
+				<label for="">
+					Envy is the intense desire to have an item that someone else possesses.
+				</label>
+				<br><br><br>
+				<p>
+					The Bible says the following in Proverbs 14:30, “A sound heart is life to the body, But envy is rottenness to the bones.” <br>
+
+					Other biblical texts which mention envy include: Job 5:2, Psalm 37:1, Proverbs 24:19-20, Ecclesiastes 4:4, Galatians 5:26 and James 3:14-16. <br>
+
+					Kindness cures envy by placing the desire to help others above the need to supersede them. <br>
+
+				</p>
+			
+		</center>
+		<br><br><br>
+	</fieldset>
+	<br><br>
+</BODY>
+</HTML>

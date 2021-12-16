@@ -1,0 +1,104 @@
+<html>
+    <head>
+        <title>act8</title>
+        <style>
+            fieldset 
+            {
+            display: block;
+            margin-left: 750px;
+            margin-right: 750px;
+            padding-top: 0.35em;
+            padding-bottom: 0.625em;
+            padding-left: 0.75em;
+            padding-right: 0.75em;
+            background-color: rgba(128,128,128, .5);
+            border: 2px;
+            border-radius: 12px;
+            }
+        </style>
+    </head>
+    <body>
+        <br><br><br><br><br><br>
+        <fieldset>
+            <br>
+            <font face="Century gothic">
+                <center>
+                    <form action="">
+                        <label for="num1">1st number: </label>
+                            <input type="text" placeholder="Enter 1st number"
+                            id="txtnum1" required> <br><br>
+        
+                            <label for="num2">2nd number: </label>
+                            <input type="text" placeholder="Enter 2nd number"
+                            id="txtnum2" required> <br><br>
+        
+                            <input type="button" value="+" onclick="addition()" >
+                            <input type="button" value="-"onclick="subraction()"> 
+                            <input type="button" value="/" onclick="division()">
+                            <input type="button" value="x" onclick="multi()">
+                            <input type="button" value="%" onclick="modulus()">
+        
+                            <br><br> 
+        
+                            <script type="text/javascript">
+                                function addition()
+                                {
+                                    var num1, num2, ans;
+                                    num1 = parseFloat(document.getElementById('txtnum1').value);
+                                    num2 = parseFloat(document.getElementById('txtnum2').value);
+                                    ans = num1+num2;
+    
+                                    document.getElementById('txtans').value = ans;
+                                }
+
+                                function subraction()
+                                {
+                                    var num1, num2, ans;
+                                    num1 = parseFloat(document.getElementById('txtnum1').value);
+                                    num2 = parseFloat(document.getElementById('txtnum2').value);
+                                    ans = num1-num2;
+    
+                                    document.getElementById('txtans').value = ans;
+                                }
+
+                                function division()
+                                {
+                                    var num1, num2, ans;
+                                    num1 = parseFloat(document.getElementById('txtnum1').value);
+                                    num2 = parseFloat(document.getElementById('txtnum2').value);
+                                    ans = num1/num2;
+    
+                                    document.getElementById('txtans').value = ans;
+                                }
+
+                                function multi()
+                                {
+                                    var num1, num2, ans;
+                                    num1 = parseFloat(document.getElementById('txtnum1').value);
+                                    num2 = parseFloat(document.getElementById('txtnum2').value);
+                                    ans = num1*num2;
+    
+                                    document.getElementById('txtans').value = ans;
+                                }
+
+                                function modulus()
+                                {
+                                    var num1, num2, ans;
+                                    num1 = parseFloat(document.getElementById('txtnum1').value);
+                                    num2 = parseFloat(document.getElementById('txtnum2').value);
+                                    ans = num1%num2;
+    
+                                    document.getElementById('txtans').value = ans;
+                                }
+
+                            </script>
+
+                            <label for="num2">Answer: </label>
+                            <input type="text" name="num2" placeholder="Enter 2nd number"
+                            id="txtans"> <br><br>
+                    </form>
+                </center>
+            </font>
+        </fieldset>
+    </body>
+</html>

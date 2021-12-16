@@ -1,0 +1,36 @@
+<HTML>
+	<HEAD>
+		<TITLE>Seven Deadly Sins</TITLE>
+		<link rel="stylesheet" href="style.css">
+	</HEAD>
+<BODY>
+	<br>
+	<fieldset>
+		<center>
+				<img  src="pics/index_pic.jpg">
+			
+				<br><br><br>
+				<br><br><br>
+				<img class="img2" src="pics/Greed.jpg" alt="">
+				<br><br>
+				<label for="">
+					Greed is an excessive pursuit of material goods.
+				</label>
+				<br><br><br>
+				<p>
+					The Bible says the following in Hebrews 13:5, “Let your conduct <br>
+
+					be without covetousness; be content with such things as you <br>
+
+					have. For He Himself has said, ‘I will never leave you nor forsake you.’” <br>
+					Other biblical texts which mention greed include: Exodus 20:17, Proverbs 11:24, Proverbs 28:25, Ecclesiastes 5:10, Philippians 4:6 and 1 Timothy 6:9-10. <br>
+					Charity cures greed by putting the desire to help others above storing up treasure for one’s self. <br>
+
+				</p>
+			
+		</center>
+		<br><br><br>
+	</fieldset>
+	<br><br>
+</BODY>
+</HTML>

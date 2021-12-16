@@ -1,0 +1,206 @@
+<HTML>
+	<HEAD>
+		<TITLE>7 Wonders of the world</TITLE>
+	<style>
+	*{
+	margin: 0;
+	padding: 0;
+	}
+	.hh2{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align:center-left;
+	}
+	.Header {
+		background-color:Violet;
+		height: 100px;
+		width: 100%;
+	}
+	fieldset {
+	display: block;
+	margin-left: 50px;
+	margin-right: 50px;
+border: 50px ;
+	border-radius: 50px;
+	background-color: rgba(233, 236, 242);
+	
+	}
+	.hh{
+	color: aliceblue;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: center;
+	}
+	label{
+	font-size: 25px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	margin-left: 25px;
+	}
+	#mg{
+		align-items: center;
+	}
+	p {
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: justify;
+		margin-left: 25px;
+		margin-right: 25px;
+		line-height: 1.5;
+	}
+	</style>	
+	</HEAD>
+<BODY>
+	<div class="Header">
+	<BR><BR>
+		<h1 class="hh">7 Wonders of the world</h1>
+		
+	</div>
+		</BR></BR>
+	<fieldset>
+	<center><img src="pics/1.jpg"></center>
+	<label>Great Wall of China</label><br><br>
+	<h3 class="hh2">Continent Located: Asia</h3> 
+	<h3 class="hh2">Country Located: China</h3> <br>
+	<h3 class="hh2">Description of the wonder:</h3>
+	<p>Great might be an understatement. One of the world’s largest building-construction
+		projects, the Great Wall of China is widely thought to be about 5,500 miles (8,850 km)
+		long; a disputed Chinese study, however, claims the length is 13,170 miles (21,200 km).</p>
+	<br><h3 class="hh2">History of the wonder:</h3>
+
+	<p>
+		The Great Wall of China is an ancient
+	series of walls and fortifications, totaling
+	more than 13,000 miles in length, located
+	in northern China.
+	</p>
+	<br><br>
+	
+	<center><img src="pics/5.jpg"></center>
+	<label>Christ the Redeemer</label><br><br>
+	<h3 class="hh2">Continent Located: South America</h3> 
+	<h3 class="hh2">Country Located: Brazil</h3> <br>
+	<h3 class="hh2">Description of the wonder:</h3>
+	<p>
+		The Art Deco-style Christ the Redeemer statue has been looming over
+	the Brazilians from upon Corcovado mountain in an awe-inspiring state
+	of eternal blessing since 1931. The 130-foot reinforced concrete-and-
+	soapstone statue was designed by Heitor da Silva Costa and cost
+	approximately $250,000 to build - much of the money was raised
+	through donations.
+	</p>
+	<br><h3 class="hh2">History of the wonder:</h3>
+	<p>
+		After its Polish rival, Christ the Redeemer is the largest Art Deco statue in
+	the world. It was designed by Polish-French sculptor Paul Landowski, before
+	being constructed by Brazilian engineer Heitor da Silva Costa in
+	collaboration with French engineer Albert Caquot. The face was the work of
+	Romanian artist Gheorghe Leonida.
+	</p>
+	<br><br>
+
+	<center><img src="pics/4.jpg"></center>
+	<label>Machu Picchu</label><br><br>
+	<h3 class="hh2">Continent Located: South America</h3> 
+	<h3 class="hh2">Country Located: Peru</h3> <br>
+	<h3 class="hh2">Description of the wonder:</h3>
+	<p>
+		Machu Picchu, an Incan city of sparkling granite precariously perched
+	between 2 towering Andean peaks, is thought by scholars to have been a
+	sacred archaeological center for the nearby Incan capital of Cusco.
+	</p>
+	<br><h3 class="hh2">History of the wonder:</h3>
+	<p>
+		Tucked away in the rocky countryside northwest of Cuzco, Peru, Machu Picchu is believed
+	to have been a royal estate or sacred religious site for Inca leaders, whose civilization was
+	virtually wiped out by Spanish invaders in the 16th century.
+	</p>
+	<br><br>
+
+	<center><img src="pics/2.jpg"></center>
+	<label>Chichén Itzá</label><br><br>
+	<h3 class="hh2">Continent Located: North America</h3> 
+	<h3 class="hh2">Country Located: Mexico</h3> <br>
+	<h3 class="hh2">Description of the wonder:</h3>
+	<p>
+		The genius and adaptability of Mayan culture can be seen in the splendid
+	ruins of Chichen Itza. This powerful city, a trading center for cloth, slaves,
+	honey and salt, flourished from approximately 800 to 1200, and acted as
+	the political and economic hub of the Mayan civilization.
+	</p>
+	<br><h3 class="hh2">History of the wonder:</h3>
+	<p>
+		The name Chichen Itza is a Mayan language term for “at the mouth of the well of the Itza.”
+	The Itza were an ethnic group of Mayans who had risen to power in the northern part of the
+	Yucatan peninsula, where the city is located.
+	</p>
+	<br><br>
+
+	<center><img src="pics/6.jpg"></center>
+	<label>The Roman Colosseum</label><br><br>
+	<h3 class="hh2">Continent Located: Europe</h3> 
+	<h3 class="hh2">Country Located: Rome</h3> <br>
+	<h3 class="hh2">Description of the wonder:</h3>
+	<p>
+		Rome's, if not Italy's, most enduring icon is undoubtedly its Colosseum.
+	Built between A.D. 70 and 80 A.D., it was in use for some 500 years. The
+	elliptical structure sat nearly 50,000 spectators, who gathered to watch
+	the gladiatorial events as well as other public spectacles, including battle
+	reenactments, animal hunts and executions. Earthquakes and stone-
+	robbers have left the Colosseum in a state of ruin, but portions of the
+	structure remain open to tourists, and its design still influences the
+	construction of modern-day amphitheaters, some 2,000 years later.
+	</p>
+	<br><h3 class="hh2">History of the wonder:</h3>
+	<p>
+		The Colosseum was built as part of an imperial effort to revitalize Rome after the
+	tumultuous year of the four emperors, 69 CE. As with other amphitheatres, the emperor
+	Vespasian intended the Colosseum to be an entertainment venue, hosting gladiator fights,
+	animal hunts, and even mock naval battles.
+	</p>
+	<br><br>
+
+	<center><img src="pics/7.jpg"></center>
+	<label>Taj Mahal</label><br><br>
+	<h3 class="hh2">Continent Located: Asia</h3> 
+	<h3 class="hh2">Country Located: India</h3> <br>
+	<h3 class="hh2">Description of the wonder:</h3>
+	<p>
+		A mausoleum commissioned for the wife of Mughal Emperor Shah Jahan,
+	the Taj Mahal was built between 1632 and 1648. Considered the most
+	perfect specimen of Muslim art in India, the white marble structure
+	actually represents a number of architectural styles, including Persian,
+	Islamic, Turkish and Indian.
+	</p>
+	<br><h3 class="hh2">History of the wonder:</h3>
+	<p>
+		Indian, Persian and Islamic influences. At its center is the Taj Mahal itself,
+	built of shimmering white marble that seems to change color depending on
+	the daylight. Designated a UNESCO World Heritage site in 1983, it remains
+	one of the world’s most celebrated structures and a stunning symbol of
+	India’s rich history.
+	</p>
+	<br><br>
+
+	<center><img src="pics/3.jpg"></center>
+	<label>Petra</label><br><br>
+	<h3 class="hh2">Continent Located: Western Asia</h3> 
+	<h3 class="hh2">Country Located: Jordan</h3> <br>
+	<h3 class="hh2">Description of the wonder:</h3>
+	<p>
+		Declared a World Heritage Site in 1985, Petra was the capital of the
+	Nabataean empire of King Aretas IV, and likely existed in its prime from 9
+	B.C. to A.D. 40. The members of this civilization proved to be early
+	experts in manipulating water technology, constructing intricate tunnels
+	and water chambers, which helped create an pseudo-oasis.
+	</p>
+	<br><h3 class="hh2">History of the wonder:</h3>
+	<p>
+		The city of Petra was established as a trading post by the Nabateans, an Arab Bedouin tribe
+	indigenous to the region in what is now southwestern Jordan. ... They continued to rule over
+	the city for more than 250 years until the middle of the fourth century A.D., when an
+	earthquake destroyed many of its buildings.
+	</p>
+	<br><br>
+
+
+	</fieldset>
+	</BR></BR>
+</BODY>
+</HTML>

@@ -1,0 +1,35 @@
+<HTML>
+	<HEAD>
+		<TITLE>Seven Deadly Sins</TITLE>
+		<link rel="stylesheet" href="style.css">
+	</HEAD>
+<BODY>
+	<br>
+	<fieldset>
+		<center>
+				<img  src="pics/index_pic.jpg">
+			
+				<br><br><br>
+				<br><br><br>
+				<img class="img2" src="pics/Wrath.jpg" alt="">
+				<br><br>
+				<label for="">
+					Wrath is a strong anger and hate towards another person.
+				</label>
+				<br><br><br>
+				<p>
+					The Bible speaks about wrath in Romans 12:19, “Beloved, never avenge yourselves, but leave it to the wrath of God, <br>
+
+					for it is written, ‘Vengeance is mine, I will repay, says the Lord.’” <br>
+
+					Additional Bible verses include: Psalm 37:8, Proverbs 14:29, Proverbs 15:1, Ephesians 4:26-27, Colossians 3:8 and James <br>
+					Patience cures wrath by one first understanding the needs and desires of others before acting or speaking. <br>
+
+				</p>
+			
+		</center>
+		<br><br><br>
+	</fieldset>
+	<br><br>
+</BODY>
+</HTML>

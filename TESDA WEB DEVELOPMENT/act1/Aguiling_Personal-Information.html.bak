@@ -1,0 +1,74 @@
+<HTML>
+	<HEAD>
+		<TITLE>Personal Information</TITLE>
+	<style>
+	*{
+	margin: 0;
+	padding: 0;
+	}
+	.hh2{
+	font-family: Century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	line-height: 1.5;
+	text-align:center;
+	}
+	.Header {
+		background-color: #DDA334;
+		height: 100px;
+		width: 100%;
+	}
+	fieldset {
+	display: block;
+	margin-left: 450px;
+	margin-right: 450px;
+
+	background-color: rgba(233, 236, 242);
+	
+	}
+	.hh{
+	
+	color: aliceblue;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: center;
+	}
+	</style>	
+	</HEAD>
+<BODY>
+	<div class="Header">
+	<BR><BR>
+		<h1 class="hh">Personal Information</h1>
+	</div>
+		</BR></BR>
+	<fieldset>
+		<h3 class="hh2">
+			First Name: MARK ANGELO<BR>
+			Middle Name: NARCISO<BR>
+			Last Name: AGUILING<BR>
+			Religion: Christian Catholic<BR>
+			Alias: None<BR>
+			Gender: Male<BR>
+			Height: 5'6<BR>
+			Weight: 50kg<BR>
+			Birth Place: Quezon City<BR>
+			Birth date: JANUARY 3, 2001<BR>
+			Age: 20<BR>
+			Address: SAUYO Quezon City<BR>
+			Contact Number: 09663292611<BR>
+			School: N/A<BR>
+			School's Address: N/A<BR>
+			School's Contact Number: N/A<BR>
+			Occupation: None<BR>
+			Occupation's Address: N/A<BR>
+			Occupation's Contact Number: N/A<BR>
+			Favorite Movie: John wick<BR>
+			Favorite Actor: None<BR>
+			Favorite Actress: None<BR>
+			Favorite Song: SWEET CHILD<BR>
+			Favorite Band: Paramore<BR>
+			Favorite Color: Blue, Blank and Pink<BR>
+			Favorite Food: LAING<BR>
+			Hobbies: Watching youtube videos, Playing online Games <BR>
+			</h3>
+	</fieldset>
+	</BR></BR>
+</BODY>
+</HTML>

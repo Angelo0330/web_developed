@@ -1,0 +1,87 @@
+*{
+	margin: 0;
+	padding: 0;
+	}
+	.Header {
+		background-color: #DDA334;
+		height: 100px;
+		width: 100%;
+	}
+	.hh{
+	color: aliceblue;
+	font-family: 'Times New Roman', Times, serif;
+	text-align: center;
+    size: 26px;
+	}
+	label{
+	font-size: 30px;
+	font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    text-align: center;
+	}
+	p {
+		font-family: 'Times New Roman', Times, serif ;
+		line-height: 1.5;
+        color: aliceblue;
+	}
+    fieldset {
+        display: block;
+        margin-left: 400px;
+        margin-right: 400px;
+        padding-top: 0.35em;
+        padding-bottom: 0.625em;
+        padding-left: 0.75em;
+        padding-right: 0.75em;
+        background-color: rgba(44, 34, 34, 0.5);
+        border: 10px;
+        border-radius: 12px;
+      }
+	body{
+        background-size: cover;
+        background-attachment: fixed;
+        background-image: url(pics/smoke.jfif);
+        height: 100%;
+        width: 100%;
+	}
+    img{
+        width: 100%;
+        height: auto;
+    }
+    .img1
+    {
+        display: inline-block;
+        overflow: hidden;
+        width: 175px;
+        height: 175px;
+        margin: 40px;
+        border-radius: 50%;
+        
+    }
+    .img1 img
+    {
+        display: block;
+        cursor: pointer;
+        width: 175px;
+        height: 175px;
+        align-content: center;
+    }
+    .img1 #zoom-in img
+    {
+        transform: scale(1);
+        transition: 0.3s ease-in-out;
+    }
+    .img1 #zoom-in:hover img
+    {
+        transform: scale(1.1);
+    }
+    ul
+    {
+        display: block;
+
+    }
+    .img2 
+    {
+        display: block;
+        width: 500px;
+        height: 440px;
+    }

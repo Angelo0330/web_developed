@@ -1,0 +1,92 @@
+<HTML>
+	<HEAD>
+		<TITLE>Sinigang Bangus</TITLE>
+	<style>
+	*{
+	margin: 0;
+	padding: 0;
+	}
+	.Header {
+		background-color: #DDA334;
+		height: 100px;
+		width: 100%;
+	}
+	.hh{
+	color: aliceblue;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: center;
+	}
+	label{
+	font-size: 25px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	}
+	p {
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: justify;
+		margin-left: 25px;
+		margin-right: 25px;
+		line-height: 1.5;
+	}
+	h3{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	margin-left: 80px;
+	}
+	fieldset {
+	display: block;
+	margin-left: 500px;
+	margin-right: 500px;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	padding-left: 2em;
+	padding-right: 2em;
+	background-color: rgba(233, 236, 242);
+	border: 10px ;
+	border-radius: 10px;
+	}
+	#button {
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 24px;
+	font-family: arial;
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #ECC869;
+	padding: 12px 20px;
+	display: inline-block;
+	border-radius: 10px;
+	}
+	#button:hover {
+	background-color: #E9DC88;
+}
+	</style>	
+	</HEAD>
+<BODY>
+	<div class="Header">
+	<BR><BR>
+		<h1 class="hh">Foods</h1>
+	</div>
+		</BR></BR>
+	<fieldset>
+		<center>
+			<img src="pics/sinigang.jpg" width="700px" height="500px"> <br><br>
+			<Label>Sinigang Bangus</Label>
+		</center>
+		<br><br>
+		<h3>Country Origin of the food: Batangas</h3><br>
+		<h3>History of the food: Bulalo is native to the Southern Luzon region of the Philippines. Many references have evolved regarding its origin. One of it says that this type of dish originated from Batangas where you find the many versions of Bulalo.</h3><br>
+	<h3>Ingredients of the food:Beef Shank Beef Shank,Water,Onion,Garlic,Black Peppercorn,Bay Leaf,Yellow Corn,Potato,Cabbage,Onion Springs,MAGGI® Magic Sarap,Toasted Garlic</h3><br>
+<h3>How to cook the food:
+Step1
+Simmer beef in water until slightly tender. Skim off fat as needed.
+Step2
+Add onion, garlic, peppercorn and bay leaf. Simmer until beef is very tender.
+Step3
+180 Min
+Add corn and simmer for 10 minutes. Add potato, cabbage and spring onion. Season with MAGGI® MAGIC SARAP®.
+ Transfer into a serving bowl, top with toasted garlic and serve.
+</h3><br>
+		
+	</fieldset>
+	</BR></BR>
+</BODY>
+</HTML>

@@ -1,0 +1,35 @@
+<HTML>
+	<HEAD>
+		<TITLE>Seven Deadly Sins</TITLE>
+		<link rel="stylesheet" href="style.css">
+	</HEAD>
+<BODY>
+	<br>
+	<fieldset>
+		<center>
+				<img  src="pics/index_pic.jpg">
+			
+				<br><br><br>
+				<br><br><br>
+				<img class="img2" src="pics/Pride.jpg" alt="">
+				<br><br>
+				<label for="">
+					Pride is an excessive view of one's self without regard for others.
+				</label>
+				<br><br><br>
+				<p>
+					The Bible says the following in Jeremiah 9:23-24, “...Let not the mighty man boast of his might...but let him who boasts <br>
+
+					boast of this, that he understands and knows Me...” <br>
+
+					Pride is also mentioned in the following verses: Proverbs 8:13, Proverbs 16:18, Romans 12:16, 1 Corinthians 13:4, Galatians 6:3 and James 4:6-7. <br>
+					Humility cures pride by removing one's ego and boastfulness, therefore allowing the attitude of service. <br>
+
+				</p>
+			
+		</center>
+		<br><br><br>
+	</fieldset>
+	<br><br>
+</BODY>
+</HTML>
